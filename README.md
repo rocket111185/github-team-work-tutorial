@@ -1,16 +1,7 @@
 # github-team-work-tutorial
 This is an example of a repository.
-dflkhsadlfkhdsa;kfh;
-sdflkjsadfkjldsfhlk
 
-sdflkajsdfl;kasdjf
-sdflkshdfl;kadshf
-
-
-sdflkjsadfl;kjas
-as'dfkjasd;lfkj
-
-
+[Check the project.](https://github.com/rocket111185/github-team-work-tutorial)
 
 ## Installation
 
@@ -33,6 +24,14 @@ Don't use this repo.
 ```javascript
 console.log('Hello Shems ot detei IP-04');
 ```
+
+## TO-DO
+
+- [ ] Some photos of cats
+- [x] Example of JS code
+- [ ] Easter Eggs
+    - [ ] Rickrolling
+    - [x] Recursion
 
 ## Contributors
 

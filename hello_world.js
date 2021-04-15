@@ -1,3 +1,9 @@
 'use strict';
 
-console.log('Hello World!');
+const hello = callback => {
+  callback('Hello World!');
+}
+
+hello(text => {
+  console.log(text);
+});
